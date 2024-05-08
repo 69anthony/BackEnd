@@ -1,0 +1,18 @@
+Paquetes instalados
+
+npm install ngx-toastr --save
+npm install @angular/animations --save
+npm i --save-dev @types/dotenv
+npm install @types/express  
+npm install typescript --save-dev
+npm i express dotenv cors sequelize mysql2
+tsc init
+npm install -g typescript
+npm install -g nodemon
+npm init -y 
+
+
+Comando para ejecutar el proyecto
+
+tsc --watch
+nodemon dist/index.js
