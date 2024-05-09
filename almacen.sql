@@ -42,9 +42,9 @@ CREATE TABLE IF NOT EXISTS `productos` (
 --
 
 INSERT INTO `productos` (`id`, `name`, `description`, `price`, `stock`) VALUES
-(14, 'Coca Cola', 'Bebida', 10, 10),
-(15, 'Pepsi', 'Bebida', 3, 5),
-(24, 'Azucar', 'Azucar', 20, 10);
+(1, 'Coca Cola', 'Bebida', 10, 10),
+(2, 'Pepsi', 'Bebida', 3, 5),
+(3, 'Azucar', 'Azucar', 20, 10);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
